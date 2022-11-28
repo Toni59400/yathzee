@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Yathzee/1.0.0": {
+        "dependencies": {
+          "yathzee_class": "1.0.0"
+        },
+        "runtime": {
+          "Yathzee.dll": {}
+        }
+      },
+      "yathzee_class/1.0.0": {
+        "runtime": {
+          "yathzee_class.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Yathzee/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "yathzee_class/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
